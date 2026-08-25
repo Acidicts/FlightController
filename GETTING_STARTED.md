@@ -1,4 +1,5 @@
 # Getting Started
+** Should be PCBA due to small parts **
 
 ## Step 1: Modify the firmware to meet your needs
 - Add and edit code within `/* USER CODE BEGIN Includes */` and `/* USER CODE END Includes */` in [`software/Core/Src/main.c`](software/Core/Src/main.c)
