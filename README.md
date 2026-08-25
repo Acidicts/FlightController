@@ -25,9 +25,5 @@ Made by following a tutorial by @notaroomba
 ## Getting Started
 Click [here](GETTING_STARTED.md)
 
-## Cost
-| What | Quantity | Cost(USD) |
-|---|---|---|
-| PCB  | 5 | $4 |
-| PCBA | 2 | $166+ |
-| Shipping | X | $21.32 |
+## BOM
+[BOM](./BOM.csv)
