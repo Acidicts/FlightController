@@ -1,4 +1,4 @@
 What,Quantity,Cost(USD),Source
-PCB,5,$4,jlcpcb.com
-PCBA,2,$166+,jlcpcb.com
-Shipping,X,$21.32,jlcpcb.com
+PCB,5,$4,[jlcpcb.com](https://jlcpcb.com)
+PCBA,2,$166+,[jlcpcb.com](https://jlcpcb.com)
+Shipping,X,$21.32,[jlcpcb.com](https://jlcpcb.com)
